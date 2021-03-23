@@ -1,0 +1,18 @@
+/* Header Style */
+.jumbotron {
+    color: beige;
+    background: rgb(23, 95, 170);
+}
+
+.jumbotron h1{
+    color: beige;
+}
+
+.well {
+    background: rgb(23, 95, 170);
+}
+
+.well h5{
+    color: beige;
+    font-size: 14px;
+}
